@@ -1,0 +1,19 @@
+How to do a Pull Request:-
+-Clone your repository
+-Then cd into the Cloned directory
+-Then create a new branch or run git checkout -b NewBranchName
+- Then open the file and make changes
+-Then Stage your changes
+-Then git add
+-Then git commit
+-Then git status
+-Then git push origin CurrentBranchName
+-Then go to GitHub
+-Click on Compare
+-Now for the Compare changes Click on Branch margining into Branch you made your changes in
+- Add a tittle
+-Add the description of the changes
+-Then Create pull request
+-Now ask someone in your team to review the changes
+-After it has been reviewed, you can merge it into the desired branch by clicking on Merge pull request
+
