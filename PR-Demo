@@ -17,3 +17,11 @@ How to do a Pull Request:-
 -Now ask someone in your team to review the changes
 -After it has been reviewed, you can merge it into the desired branch by clicking on Merge pull request
 
+
+
+Main things to take note of in PR:
+1.	Write small pull requests. This leaves less room to introduce bugs and provides a clearer history of changes
+2.	Review your own pull requests first. Review, build, test your PR before submitting
+3.	Provide context ang guidance. Write clear titles and descriptions so reviewers can quickly understand what the pull request does.
+
+
